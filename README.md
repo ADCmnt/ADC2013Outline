@@ -1,4 +1,4 @@
-## Session for Students
+## 学生讲者
 
 ```html
 未确定名单
@@ -17,7 +17,7 @@
 * 黄野 / Edward [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)
 * 甘超阳 / @iwillwen [Website](http://im1996.com/)
 
-## Session for Advisors
+## 嘉宾
 
 ```html
 未确定名单
@@ -34,7 +34,12 @@
 * 程邵非 / winter
 * 裕波 / yu
 
-## Collaboration
+## 报名方式
+
+* 码云 (mayun.us) | [页面](http://mayun.us/order/buy/519d10cc0fb2eab018000005)
+* 豆瓣活动 (douban event) | [页面](#)
+
+## 合作伙伴
 
 ```html
 未确定名单
@@ -60,7 +65,7 @@
 * CDC
 * 码云网
 
-## Media
+## 媒体
 
 ```html
 未确定名单
@@ -70,7 +75,7 @@
 * 36kr
 * GeekPark
 
-## Schedule
+## 日程安排（拟）
 
 <table>
 <thead>
