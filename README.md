@@ -5,16 +5,16 @@
 ```
 
 * 刘学炜 / Xuewei Liu [Profile](http://my.oschina.net/liu-xuewei)
-* 何凌翰 / Linghein Ho
+* 何凌翰 / Linghein Ho [Blog](http://mxree.com)
 * 金天 / @grantjin [Portfolio](http://grantjin.com/)
-* 郑博闻 / Bowen Zheng
+* 郑博闻 / Bowen Zheng [Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml)
 * 刘敬韬 / @Technommy [Website](http://technommy.github.io/sample.html)
-* 韩彧 / @shota_nuke [https://twitter.com/shotenuke]
-* 张天 / @KhaosTian [http://ti.io]
+* 韩彧 / @shota_nuke [Twitter](https://twitter.com/shotenuke)
+* 张天 / @KhaosTian [Blog](http://ti.io)
 * 陈昌平 / ccp0101 [Resume](https://github.com/UrlWeirdo/ADConfOutline/blob/master/ccp0101_resume.json)
-* 宋方睿 / @maskray
+* 宋方睿 / @maskray [Blog](http://maskray.com)
 * 杜顺帆 / Perry [Website](http://dushunfan.com)
-* 黄野 / Edward
+* 黄野 / Edward [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)
 * 甘超阳 / @iwillwen [Website](http://im1996.com/)
 
 ## Session for Advisors
