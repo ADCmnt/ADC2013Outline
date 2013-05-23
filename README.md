@@ -32,7 +32,8 @@
 * 刘江 or 蒋涛 / Jiang Liu or Tao Jiang
 * 黄蔚瀚 / Sammy
 * 程邵非 / winter
-* 裕波 / yu
+* 裕波 / yuboo
+* 李开复 / Kaifu Lee
 
 ## 报名方式
 
