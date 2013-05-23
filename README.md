@@ -29,6 +29,7 @@
 * 高阳 / sunshineg
 * 吕康豪 / kennyluck
 * 杨昕霖 / Xinling
+* 郭家宝 / Carbo Kuo
 * 刘江 or 蒋涛 / Jiang Liu or Tao Jiang
 * 黄蔚瀚 / Sammy
 * 程邵非 / winter
