@@ -5,7 +5,7 @@
 ```
 
 * 刘学炜 / Xuewei Liu [Profile](http://my.oschina.net/liu-xuewei)
-* 何凌翰 / Linghein Ho [Blog](http://mxree.com)
+* 何凌瀚 / Linghein Ho [Blog](http://mxree.com)
 * 金天 / @grantjin [Portfolio](http://grantjin.com/)
 * 郑博闻 / Bowen Zheng [Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml)
 * 刘敬韬 / @Technommy [Website](http://technommy.github.io/sample.html)
