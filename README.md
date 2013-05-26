@@ -13,10 +13,12 @@
 * 张天 / @KhaosTian [Blog](http://ti.io)
 * 陈昌平 / ccp0101 [Resume](https://github.com/UrlWeirdo/ADConfOutline/blob/master/ccp0101_resume.json)
 * 宋方睿 / @maskray [Blog](http://maskray.com)
+* 季逸超 / Peak Ji [Website](#)
 * 杜顺帆 / Perry [Website](http://dushunfan.com)
 * 黄野 / Edward [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)
 * 甘超阳 / @iwillwen [Website](http://im1996.com/)
 * 李欧林 / Oling [Blog](http://olingcat.blogspot.com)
+* 
 
 ## 嘉宾
 
@@ -38,6 +40,12 @@
 * 程邵非 / winter
 * 裕波 / yuboo
 * 李开复 / Kaifu Lee
+* 姬十三 / founder at Guokr
+* 陈梓翰 / GeniusVzch
+* 庄表伟
+* 谢孟军 / Asat Xie
+* 谢子斌 / Cheah
+* 小耿 / at Guokr 
 
 ## 报名方式
 
@@ -69,6 +77,18 @@
 * GDG Beijing
 * CDC
 * 码云网
+* 映趣科技
+* Iconfans
+* 豆瓣同城
+* 北京创客空间
+* 极客库
+* TEDChina
+* 一席Yixi
+* 微软创新杯
+* 欧朋浏览器
+* Vancl
+* XDF or ZMN
+* CASIO
 
 ## 赞助单位
 
