@@ -16,6 +16,7 @@
 * 杜顺帆 / Perry [Website](http://dushunfan.com)
 * 黄野 / Edward [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)
 * 甘超阳 / @iwillwen [Website](http://im1996.com/)
+* 李欧林 / Oling [Blog](http://olingcat.blogspot.com)
 
 ## 嘉宾
 
@@ -27,6 +28,8 @@
 * 李松峰 / Songfeng Li
 * 郝培强 / Tinyfool
 * 高阳 / sunshineg
+* 顾森 / Matrix67
+* 姚? / Thomas
 * 吕康豪 / kennyluck
 * 杨昕霖 / Xinling
 * 郭家宝 / Carbo Kuo
