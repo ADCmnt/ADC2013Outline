@@ -18,7 +18,6 @@
 * 黄野 / Edward [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)
 * 甘超阳 / @iwillwen [Website](http://im1996.com/)
 * 李欧林 / Oling [Blog](http://olingcat.blogspot.com)
-* 
 
 ## 嘉宾
 
@@ -46,6 +45,8 @@
 * 谢孟军 / Asat Xie
 * 谢子斌 / Cheah
 * 小耿 / at Guokr 
+* 杨帆 / cnBeta
+* 戴志康 / 康盛新创
 
 ## 报名方式
 
@@ -107,13 +108,14 @@
 * cnBeta
 * 36kr
 * GeekPark
+* 多肽网
 
 ## 报销计划（拟）
 
-> 本届大会中我们采用分段报销的方式，我们更鼓励大家使用火车（特快/空调特快，不包括高速铁路系统）作为交通工具。距离北京300千米以内不报销路费，其余里程具体路费报销比率以及参考数目如下：
+本届大会中我们采用分段报销的方式，我们更鼓励大家使用火车（特快/空调特快，不包括高速铁路系统）作为交通工具。距离北京300千米以内不报销路费，其余里程具体路费报销比率以及参考数目如下：
 
 <table>
-    <tr><td>里程数</td><td>客座类型</td><td>报销比率</td></tr>
+    <tr><th>里程数</th><th>客座类型</th><th>报销比率</th></tr>
     <tr><td>301-600km</td><td>硬座</td><td>硬座票价*200%</td></tr>
     <tr><td>601-1350km</td><td>软座</td><td>硬座票价*250%</td></tr>
     <tr><td>1351-1950km</td><td>硬卧上</td><td>硬座票价*285%</td></tr>
@@ -125,6 +127,7 @@
 
 ## 日程安排（拟）
 
+<b>北京<b/>
 <table>
 <thead>
     <tr><th>时间</th><th>项目</th><th>主讲人</th><th>备注 (incl. Slide)</th></tr>
@@ -140,6 +143,21 @@
     <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
 </tbody>
 </table>
-
+<b>上海<b/>
+<table>
+<thead>
+    <tr><th>时间</th><th>项目</th><th>主讲人</th><th>备注 (incl. Slide)</th></tr>
+</thead>
+<tbody>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+</tbody>
+</table>
 
 (等待完善)
