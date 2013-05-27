@@ -133,6 +133,9 @@ __北京__
     <tr><th colspan="4">午餐 + 间歇 + 交流</th></tr>
 </tbody>
 <thead>
+    <tr><th colspan="4">上午</th></tr>
+</thead>
+<thead>
     <tr><th>时间</th><th>项目</th><th>讲者 / 主讲人</th><th>备注</th></tr>
 </thead>
 <tbody>
@@ -150,7 +153,7 @@ __北京__
     <tr><td>17:50~18:00</td><td>结束致辞</td><td>暂未定</td><td></td></tr>
     <tr><td>18:00~</td><td colspan="3">邀请嘉宾及学生聚餐活动</td></tr>
 </tbody>
-</table>
+</table><br><br>
 
 
 __上海__
