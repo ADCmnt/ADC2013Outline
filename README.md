@@ -112,23 +112,28 @@
 
 ## 日程安排（拟）
 
-<b>北京<b/>
+__北京__
+
 <table>
-<thead>
-    <tr><th>时间</th><th>项目</th><th>主讲人</th><th>备注 (incl. Slide)</th></tr>
+<thead style="background-color=#0070c0; color=#ffffff;">
+    <tr><th colspan="4">上午</th></tr>
+</thead>
+<thead style="background-color=#9cc2e5;">
+    <tr><th>时间</th><th>项目</th><th>讲者 / 主讲人</th><th>备注</th></tr>
 </thead>
 <tbody>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>00:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>08:20~09:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>09:00~09:15</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>09:15~09:45</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>09:45~10:25</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>10:25~11:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>11:00~12:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
 </tbody>
 </table>
-<b>上海<b/>
+
+
+__上海__
+
 <table>
 <thead>
     <tr><th>时间</th><th>项目</th><th>主讲人</th><th>备注 (incl. Slide)</th></tr>
