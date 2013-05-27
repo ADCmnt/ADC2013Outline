@@ -8,7 +8,7 @@
 
 <table>
     <tr><th>姓名</th><th>来自</th><th>主题</th><th>备注</th></tr>
-    <tr><td>郑博闻</td><td>上海</td><td>/</td><td> [Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml) </td></tr>
+    <tr><td>郑博闻</td><td>上海</td><td>/</td><td> <a href="http://www.forbeschinamagazine.com/review/201305/0024623.shtml" target="_blank">Report</a></td></tr>
     <tr><td>季逸超</td><td>北京</td><td>/</td><td>[Website](#)</td></tr>
     <tr><td>金天</td><td>江苏</td><td>/</td><td>[Portfolio](http://grantjin.com/)</td></tr>
     <tr><td>韩彧</td><td>深圳</td><td>/</td><td>[Twitter](https://twitter.com/shotenuke)</td></tr>
@@ -115,19 +115,40 @@
 __北京__
 
 <table>
-<thead style="background-color=#0070c0; color=#ffffff;">
+<thead>
     <tr><th colspan="4">上午</th></tr>
 </thead>
-<thead style="background-color=#9cc2e5;">
+<thead>
     <tr><th>时间</th><th>项目</th><th>讲者 / 主讲人</th><th>备注</th></tr>
 </thead>
 <tbody>
-    <tr><td>08:20~09:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>09:00~09:15</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>09:15~09:45</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>09:45~10:25</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>10:25~11:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
-    <tr><td>11:00~12:00</td><td>这里是项目</td><td>这里是主讲人</td><td>这里是备注</td></tr>
+    <tr><td>08:20~09:00</td><td>签到</td><td>/</td><td></td></tr>
+    <tr><td>09:00~09:15</td><td>开幕致辞</td><td>暂未定</td><td></td></tr>
+    <tr><td>09:15~09:45</td><td><b>未确定主题演讲</b></td><td>暂未定</td><td></td></tr>
+    <tr><td>09:45~10:25</td><td><b>未确定主题演讲</b></td><td>暂未定</td><td></td></tr>
+    <tr><td>10:25~11:00</td><td><b>未确定主题演讲</b></td><td>暂未定</td><td></td></tr>
+    <tr><td>11:00~12:00</td><td>未确定项目</td><td>/</td><td></td></tr>
+</tbody>
+<tbody>
+    <tr><th colspan="4">午餐 + 间歇 + 交流</th></tr>
+</tbody>
+<thead>
+    <tr><th>时间</th><th>项目</th><th>讲者 / 主讲人</th><th>备注</th></tr>
+</thead>
+<tbody>
+    <tr><td>13:50~14:00</td><td>学生讲者准备时间</td><td>/</td><td></td></tr>
+    <tr><td>14:00~14:20</td><td>未确定主题演讲</td><td>郑博文</td><td></td></tr>
+    <tr><td>14:20~14:40</td><td>未确定主题演讲</td><td>季逸超 / 范泽一</td><td></td></tr>
+    <tr><td>14:40~15:00</td><td>未确定主题演讲</td><td>金天</td><td></td></tr>
+    <tr><td>14:40~15:00</td><td>未确定主题演讲</td><td>韩彧</td><td></td></tr>
+    <tr><td>15:20~15:30</td><td>茶歇时间</td><td>/</td><td>特别活动(?)</td></tr>
+    <tr><td>15:30~15:50</td><td>未确定主题演讲</td><td>刘学炜</td><td></td></tr>
+    <tr><td>16:10~16:30</td><td>未确定主题演讲</td><td>宋方睿</td><td></td></tr>
+    <tr><td>16:30~16:50</td><td>未确定主题演讲</td><td>黄野</td><td></td></tr>
+    <tr><td>16:50~17:10</td><td>未确定主题演讲</td><td>何凌翰</td><td></td></tr>
+    <tr><td>17:10~17:50</td><td>未确定项目</td><td>/</td><td></td></tr>
+    <tr><td>17:50~18:00</td><td>结束致辞</td><td>暂未定</td><td></td></tr>
+    <tr><td>18:00~</td><td colspan="3">邀请嘉宾及学生聚餐活动</td></tr>
 </tbody>
 </table>
 
