@@ -61,11 +61,10 @@
 ```
 
 <table>
-    <tr><td>HTML5 梦工场</td><td>Google</td><td>Firefox</td><td>W3C 中国</td><td>环球科学杂志社</td></tr>
-    <tr><td>SeeedStudio</td><td>SegmentFault</td><td>W3C Plus</td><td>腾讯大奖堂</td><td>w3ctech</td></tr>
-    <tr><td>开源中国社区</td><td>GDG Beijing</td><td>CDC</td><td>码云网</td><td>Firefox</td></tr>
-    <tr><td>映趣科技</td><td>Iconfans</td><td>豆瓣同城</td><td>北京创客空间</td><td>极客库</td></tr>
-    <tr><td>TEDChina</td><td>一席Yixi</td><td>微软创新杯</td><td>unsure</td><td>unsure</td></tr>
+    <tr><td>HTML5 梦工场</td><td>Google</td><td>Firefox</td><td>W3C 中国</td><td>环球科学杂志社</td><td>SeeedStudio</td></tr>
+    <tr><td>SegmentFault</td><td>W3C Plus</td><td>腾讯大奖堂</td><td>w3ctech</td><td>开源中国社区</td><td>GDG Beijing</td></tr>
+    <tr><td>CDC</td><td>码云网</td><td>Firefox</td><td>映趣科技</td><td>Iconfans</td><td>豆瓣同城</td></tr>
+    <tr><td>北京创客空间</td><td>极客库</td><td>TEDChina</td><td>一席Yixi</td><td>微软创新杯</td><td>unsure</td></tr>
 </table>
  
 
