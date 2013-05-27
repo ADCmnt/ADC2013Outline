@@ -4,20 +4,20 @@
 未确定名单
 ```
 
-* 刘学炜 / Xuewei Liu [Profile](http://my.oschina.net/liu-xuewei)
-* 何凌瀚 / Linghein Ho [Blog](http://mxree.com)
-* 金天 / @grantjin [Portfolio](http://grantjin.com/)
-* 郑博闻 / Bowen Zheng [Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml)
-* 刘敬韬 / @Technommy [Website](http://technommy.github.io/sample.html)
-* 韩彧 / @shota_nuke [Twitter](https://twitter.com/shotenuke)
-* 张天 / @KhaosTian [Blog](http://ti.io)
-* 陈昌平 / ccp0101 [Resume](https://github.com/UrlWeirdo/ADConfOutline/blob/master/ccp0101_resume.json)
-* 宋方睿 / @maskray [Blog](http://maskray.com)
-* 季逸超 / Peak Ji [Website](#)
-* 杜顺帆 / Perry [Website](http://dushunfan.com)
-* 黄野 / Edward [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)
-* 甘超阳 / @iwillwen [Website](http://im1996.com/)
-* 李欧林 / Oling [Blog](http://olingcat.blogspot.com)
+#### 北京
+
+* 郑博闻（年轻开发者的经验）[Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml)
+* 季逸超（猛犸浏览器）[Website](#)
+* 金天（个人条形码识别）[Portfolio](http://grantjin.com/)
+* 韩彧（Windows 8 风格设计理解）[Twitter](https://twitter.com/shotenuke)
+* 刘学炜（无障碍应用现实）[Profile](http://my.oschina.net/liu-xuewei)
+* 陈昌平（[Resume](https://github.com/UrlWeirdo/ADConfOutline/blob/master/ccp0101_resume.json)）/ 甘超阳（[Website](http://im1996.com/)）
+* 黄野（个人应用实现 [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)）/ 宋方睿（AI 机器人 [Website](http://maskray.com/)）
+* 何凌翰（untitled）[Blog](http://mxree.com)
+
+#### 上海
+
+* [未确定]
 
 ## 嘉宾
 
@@ -25,28 +25,29 @@
 未确定名单
 ```
 
-* 朱宏 / MLikeasong
-* 李松峰 / Songfeng Li
-* 郝培强 / Tinyfool
-* 高阳 / sunshineg
-* 顾森 / Matrix67
-* 姚? / Thomas
-* 吕康豪 / kennyluck
-* 杨昕霖 / Xinling
-* 郭家宝 / Carbo Kuo
-* 刘江 or 蒋涛 / Jiang Liu or Tao Jiang
-* 黄蔚瀚 / Sammy
-* 程邵非 / winter
-* 裕波 / yuboo
-* 李开复 / Kaifu Lee
-* 姬十三 / founder at Guokr
-* 陈梓翰 / GeniusVzch
-* 庄表伟
-* 谢孟军 / Asat Xie
-* 谢子斌 / Cheah
-* 小耿 / at Guokr 
-* 杨帆 / cnBeta
-* 戴志康 / 康盛新创
+#### 北京
+
+> 未确定
+
+* 杨光
+* 李松峰
+* 杨昕霖
+* 谢子斌
+* 朱宏
+* 蒋涛
+* 黄蔚瀚
+* 李开复
+* 姬十三
+
+#### 上海
+
+> 未确定
+
+* 王治钧（TED）
+* 程绍辉
+* 姚欣宇
+* 高阳
+* 郝培强
 
 ## 报名方式
 
