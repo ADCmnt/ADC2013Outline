@@ -11,7 +11,7 @@
     <tr><th>姓名</th><th>来自</th><th>主题</th><th>备注</th></tr>
 </thead>
 <tbody>
-    <tr><td>郑博闻</td><td>上海</td><td>/</td><td>[Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml)</td></tr>
+    <tr><td>郑博闻</td><td>上海</td><td>/</td><td> [Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml) </td></tr>
     <tr><td>季逸超</td><td>北京</td><td>/</td><td>[Website](#)</td></tr>
     <tr><td>金天</td><td>江苏</td><td>/</td><td>[Portfolio](http://grantjin.com/)</td></tr>
     <tr><td>韩彧</td><td>深圳</td><td>/</td><td>[Twitter](https://twitter.com/shotenuke)</td></tr>
