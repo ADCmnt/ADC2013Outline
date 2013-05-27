@@ -74,19 +74,8 @@
 名单不完整
 ```
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-
 <table>
-    <tr><td>深圳市科技创新委员会</td><td>Vancl</td><td>CASIO</td><tdXDF or ZMN</td><td>欧朋浏览器</td><td>图灵社区</td></tr>
+    <tr><td>深圳市科技创新委员会</td><td>Vancl</td><td>CASIO</td><td>XDF or ZMN</td><td>欧朋浏览器</td><td>图灵社区</td></tr>
     <tr><td>博文视点出版社</td><td>腾讯</td><td>百度</td><td>w3ctech</td><td>Microsoft</td><td>unsure</td></tr>
 </table>
 
