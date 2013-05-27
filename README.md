@@ -6,15 +6,6 @@
 
 #### 北京
 
-* （年轻开发者的经验）
-* （猛犸浏览器）
-* （个人条形码识别）
-* （Windows 8 风格设计理解）
-* （无障碍应用现实）
-* （/ 甘超阳（[Website](http://im1996.com/)）
-* （个人应用实现 / （AI 机器人 ）
-* （untitled）www.fanhe.org/‎
-
 <table>
 <thead>
     <tr><th>姓名</th><th>来自</th><th>主题</th><th>备注</th></tr>
