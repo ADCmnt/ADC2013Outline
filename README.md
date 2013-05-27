@@ -60,15 +60,10 @@
 ```
 
 * HTML5 梦工场
-* 图灵社区
-* 博文视点出版社
-* 腾讯
-* 百度
 * Google
 * Firefox
 * W3C 中国
 * 环球科学杂志社
-* Microsoft
 * SeeedStudio
 * SegmentFault
 * W3C Plus
@@ -86,10 +81,6 @@
 * TEDChina
 * 一席Yixi
 * 微软创新杯
-* 欧朋浏览器
-* Vancl
-* XDF or ZMN
-* CASIO
 
 ## 赞助单位
 
@@ -98,6 +89,15 @@
 ```
 
 * 深圳市科技创新委员会
+* Vancl
+* XDF or ZMN
+* CASIO
+* 欧朋浏览器
+* 图灵社区
+* 博文视点出版社
+* 腾讯
+* 百度
+* Microsoft
 
 ## 媒体
 
