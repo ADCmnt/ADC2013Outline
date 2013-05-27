@@ -6,14 +6,31 @@
 
 #### 北京
 
-* 郑博闻（年轻开发者的经验）[Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml)
-* 季逸超（猛犸浏览器）[Website](#)
-* 金天（个人条形码识别）[Portfolio](http://grantjin.com/)
-* 韩彧（Windows 8 风格设计理解）[Twitter](https://twitter.com/shotenuke)
-* 刘学炜（无障碍应用现实）[Profile](http://my.oschina.net/liu-xuewei)
-* 陈昌平（[Resume](https://github.com/UrlWeirdo/ADConfOutline/blob/master/ccp0101_resume.json)）/ 甘超阳（[Website](http://im1996.com/)）
-* 黄野（个人应用实现 [iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)）/ 宋方睿（AI 机器人 [Website](http://maskray.com/)）
-* 何凌翰（untitled）[Blog](http://mxree.com)
+* （年轻开发者的经验）
+* （猛犸浏览器）
+* （个人条形码识别）
+* （Windows 8 风格设计理解）
+* （无障碍应用现实）
+* （/ 甘超阳（[Website](http://im1996.com/)）
+* （个人应用实现 / （AI 机器人 ）
+* （untitled）www.fanhe.org/‎
+
+<table>
+<thead>
+    <tr><th>姓名</th><th>来自</th><th>主题</th><th>备注</th></tr>
+</thead>
+<tbody>
+    <tr><td>郑博闻</td><td>上海</td><td>/</td><td>[Report](http://www.forbeschinamagazine.com/review/201305/0024623.shtml)</td></tr>
+    <tr><td>季逸超</td><td>北京</td><td>/</td><td>[Website](#)</td></tr>
+    <tr><td>金天</td><td>江苏</td><td>/</td><td>[Portfolio](http://grantjin.com/)</td></tr>
+    <tr><td>韩彧</td><td>深圳</td><td>/</td><td>[Twitter](https://twitter.com/shotenuke)</td></tr>
+    <tr><td>刘学炜</td><td>广州</td><td>/</td><td>[Profile](http://my.oschina.net/liu-xuewei)</td></tr>
+    <tr><td>宋方睿</td><td>北京</td><td>/</td><td>[Website](http://github.com/maskray/)</td></tr>
+    <tr><td>黄野</td><td>深圳</td><td>/</td><td>[iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)</td></tr>
+    <tr><td>何凌翰</td><td>江苏</td><td>/</td><td>[Blog](http://mxree.com)</td></tr>
+    <tr><td>范泽一</td><td>北京</td><td>/</td><td>[Portfolio](http://chaofan.org/)</td></tr>
+</tbody>
+</table>
 
 #### 上海
 
