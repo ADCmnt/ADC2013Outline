@@ -56,7 +56,7 @@
 ## 报名方式
 
 * 码云 (mayun.us) | [页面](http://mayun.us/order/buy/519d10cc0fb2eab018000005)
-* 豆瓣活动 (douban event) | [页面](#)
+* 豆瓣活动 (douban event) | [页面](http://www.douban.com/event/18979205/)
 
 ## 合作伙伴
 
