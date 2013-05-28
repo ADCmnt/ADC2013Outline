@@ -11,7 +11,6 @@
     <tr><td>郑博闻</td><td>上海</td><td>/</td><td> <a href="http://www.forbeschinamagazine.com/review/201305/0024623.shtml" target="_blank">Report</a></td></tr>
     <tr><td>季逸超</td><td>北京</td><td>/</td><td>[Website](#)</td></tr>
     <tr><td>金天</td><td>江苏</td><td>/</td><td>[Portfolio](http://grantjin.com/)</td></tr>
-    <tr><td>韩彧</td><td>深圳</td><td>/</td><td>[Twitter](https://twitter.com/shotenuke)</td></tr>
     <tr><td>刘学炜</td><td>广州</td><td>/</td><td>[Profile](http://my.oschina.net/liu-xuewei)</td></tr>
     <tr><td>宋方睿</td><td>北京</td><td>/</td><td>[Website](http://github.com/maskray/)</td></tr>
     <tr><td>黄野</td><td>深圳</td><td>/</td><td>[iOS Dev Profile](https://itunes.apple.com/us/artist/ye-huang/id569134216)</td></tr>
