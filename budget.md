@@ -25,6 +25,7 @@
 
 ## 杂项（unsure）
 
-* 特定贴纸
+* 贴纸
+* HHKB Pro / Poker II etc.
 
 
