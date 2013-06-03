@@ -1,5 +1,5 @@
 * 等候 Beijing GDG 的合作、推广、赞助（此部分由 Google 提供）的答复；
-* __Linghein[CHECK]__ 在 Demohour 点名时间上简历项目寻求赞助；
+* 在 Demohour 点名时间上简历项目寻求赞助；__Linghein[CHECK]__
 * 向百度的 Junjin 询问赞助事宜并得到答复；
 * 在支付宝上面建立资助链接放置首页上；
 * 2013 官方站点（http://2013.adc-cn.org/ ）上线；
