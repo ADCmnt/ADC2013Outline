@@ -2,6 +2,7 @@
 * 在 Demohour 点名时间上简历项目寻求赞助； __Linghein[CHECK]__
 
 > 6/13/2013第二次提交审核
+  6/14/2013退回 电话联系
 
 * 向百度的 Junjin 询问赞助事宜并得到答复； __Linghein[CHECK]__
 
